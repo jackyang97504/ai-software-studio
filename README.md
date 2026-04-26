@@ -208,19 +208,6 @@ The system SHALL issue a JWT token upon successful login.
 
 ---
 
-## Comparison
-
-| Feature | AI Software Studio | OpenSpec | Claude Code Game Studios |
-|---------|-------------------|----------|--------------------------|
-| Multi-agent coordination | ✅ 23 agents | ❌ | ✅ 48 agents |
-| Spec-driven workflow | ✅ | ✅ | ❌ |
-| Change-based folders | ✅ | ✅ | ❌ |
-| Department hierarchy | ✅ 6 departments | ❌ | ✅ |
-| Multi-language support | ✅ Python/Go/TS/Rust | ❌ | N/A |
-| Legal/Compliance | ✅ | ❌ | ❌ |
-
----
-
 ## Documentation
 
 - [CLAUDE.md](CLAUDE.md) — Main configuration for Claude Code
